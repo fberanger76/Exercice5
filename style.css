@@ -1,0 +1,14 @@
+table {
+    border-width:1px; 
+    border-style:solid; 
+    border-color:black;
+    border-collapse: collapse;
+    width:30%;
+    }
+   th, td { 
+    border-width:1px;
+    border-style:solid; 
+    border-color:black;
+    border-collapse: collapse;
+    width:40%;
+    }
